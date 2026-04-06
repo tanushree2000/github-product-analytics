@@ -117,6 +117,12 @@ python main.py
 python main.py pytorch/pytorch tensorflow/tensorflow scikit-learn/scikit-learn
 ```
 ---
+## Optional: GitHub API Token
+
+To avoid rate limits:
+
+export GITHUB_TOKEN=your_token_here
+
 
 ## Design Decisions
 
