@@ -114,10 +114,7 @@ python main.py
 ### If you want custom repository
 
 ```bash
-python main.py 
-pytorch/pytorch 
-tensorflow/tensorflow 
-scikit-learn/scikit-learn
+python main.py pytorch/pytorch tensorflow/tensorflow scikit-learn/scikit-learn
 ```
 ---
 
