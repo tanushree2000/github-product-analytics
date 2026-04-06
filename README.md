@@ -7,6 +7,8 @@ It evaluates key performance metrics such as popularity, adoption, and activity 
 
 Unlike static dataset projects, this system works with real-time data, making the analysis dynamic and closer to real-world product analytics workflows.
 
+This project simulates how a product analyst would evaluate competing developer platforms using publicly available metrics.
+
 ---
 
 ## Problem Statement
@@ -150,6 +152,7 @@ Careful visualization design was applied to ensure clarity and accurate comparis
 
 The goal of this project is not just to display data, but to interpret it.
 Each output is designed to answer a product-level question rather than simply present numbers.
+
 
 ---
 
