@@ -108,10 +108,17 @@ This project simulates a real-world analytics workflow by:
 ## How to Run
 
 ```bash
-pip install requests pandas matplotlib
-python3 main.py
+pip install -r requirements.txt
+python main.py
 ```
+### If you want custom repository
 
+```bash
+python main.py 
+pytorch/pytorch 
+tensorflow/tensorflow 
+scikit-learn/scikit-learn
+```
 ---
 
 ## Design Decisions

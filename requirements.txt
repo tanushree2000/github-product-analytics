@@ -1,5 +1,4 @@
-
-requests
-pandas
 matplotlib
 numpy
+pandas
+requests
